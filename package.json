@@ -1,0 +1,22 @@
+{
+  "name": "tempest96-git_gulp_htmlcss-",
+  "version": "1.0.0",
+  "description": "Git_Gulp_HtmlCss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tempest96/Tempest96-Git_Gulp_HtmlCss-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tempest96/Tempest96-Git_Gulp_HtmlCss-/issues"
+  },
+  "homepage": "https://github.com/Tempest96/Tempest96-Git_Gulp_HtmlCss-#readme",
+  "devDependencies": {
+    "gulp": "4.0.2"
+  }
+}
