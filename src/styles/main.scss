@@ -1,6 +1,21 @@
 @import 'base/dreamshare';
 @import 'base/dreamshare';
-@import 'base/mobile';
-@import 'base/reset';
-@import 'base/tablet';
-@import 'base/variables';
+@import 'media/mobile';
+@import 'media/reset';
+@import 'media/tablet';
+@import 'media/variables';
+
+@font-face {
+  font-family: "Montserrat-regular";
+  src: url(fonts/Montserrat-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url(fonts/Montserrat-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Montserrat-Light";
+  src: url(fonts/Montserrat-Light.ttf);
+}

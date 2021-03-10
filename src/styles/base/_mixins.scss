@@ -1,0 +1,14 @@
+@mixin size($w, $h) {
+  width: $w;
+  height: $h;
+}
+
+@mixin bgPos($bgX, $bgY) {
+  background-position-x: $bgX;
+  background-position-y: $bgY;
+}
+
+@mixin textSize($fS, $lH) {
+  font-size: $fS;
+  line-height: $lH;
+}
