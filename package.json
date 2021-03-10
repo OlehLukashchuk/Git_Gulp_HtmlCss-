@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Tempest96/Tempest96-Git_Gulp_HtmlCss-#readme",
   "devDependencies": {
-    "gulp": "4.0.2"
+    "gulp": "4.0.2",
+    "gulp-pug": "4.0.1"
   }
 }
