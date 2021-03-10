@@ -1,9 +1,8 @@
-@import 'base/dreamshare';
-@import 'base/dreamshare';
+@import 'base/mixins';
+@import 'base/reset';
 @import 'media/mobile';
-@import 'media/reset';
+@import 'media/dreamshare';
 @import 'media/tablet';
-@import 'media/variables';
 
 @font-face {
   font-family: "Montserrat-regular";
