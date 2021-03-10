@@ -12,7 +12,7 @@ const del = require('del')
 const html = () => {
   return gulp
     .src("src/pug/*.pug")
-    .pipe(pug())
+    .pipe(pug({pretty:true}))
     .pipe(gulp.dest('build'))
 }
 
