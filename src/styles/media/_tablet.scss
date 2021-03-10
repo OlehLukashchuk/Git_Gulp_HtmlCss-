@@ -11,7 +11,7 @@
       @include size(768px, 700px);
       // @include bgPos(10px, 0px);
       margin: 0 auto;
-      background-image: url(../../images/BackgroundTablet.png);
+      background-image: url(../images/BackgroundTablet.png);
       background-repeat: no-repeat;
       overflow: hidden;
 
@@ -167,12 +167,12 @@
         }
 
         .steps:nth-child(2) {
-          background-image: url(../../images/Step1imageTablet.png);
+          background-image: url(../images/Step1imageTablet.png);
           margin-left: 10px;
         }
 
         .steps:nth-child(3) {
-          background-image: url(../../images/Step2imageTablet.png);
+          background-image: url(../images/Step2imageTablet.png);
           padding-top: 95px;
           h3 {
             width: 196px;
@@ -185,7 +185,7 @@
         }
 
         .steps:nth-child(4) {
-          background-image: url(../../images/Step3imageTablet.png);
+          background-image: url(../images/Step3imageTablet.png);
           margin-right: 10px;
           .steps__button {
             padding-left: 6px;
@@ -250,7 +250,7 @@
             padding-left: 4px;
           }
           .avatar {
-            background-image: url(../../images/Bitmap1.png);
+            background-image: url(../images/Bitmap1.png);
             margin: 3px 0px 0px 74px;
           }
 
@@ -259,7 +259,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #ff4e50;
-            background-image: url(../../images/Shape3.png);
+            background-image: url(../images/Shape3.png);
             background-repeat: no-repeat;
             background-position-x: 9px;
             background-position-y: 8px;
@@ -284,7 +284,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap.png);
+            background-image: url(../images/Bitmap.png);
             margin: 3px 0px 0px 76px;
           }
 
@@ -293,7 +293,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #ffa710;
-            background-image: url(../../images/Shape2.png);
+            background-image: url(../images/Shape2.png);
             background-repeat: no-repeat;
             background-position-x: 8px;
             background-position-y: 8px;
@@ -316,7 +316,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap2.png);
+            background-image: url(../images/Bitmap2.png);
             margin: -13px 0px 0px 65px;
           }
 
@@ -325,7 +325,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #19d4ca;
-            background-image: url(../../images/Shape1.png);
+            background-image: url(../images/Shape1.png);
             background-repeat: no-repeat;
             background-position-x: 8px;
             background-position-y: 7px;
@@ -346,7 +346,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap3.png);
+            background-image: url(../images/Bitmap3.png);
             margin: -14px 0px 0px 68px;
           }
 
@@ -355,7 +355,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #667df3;
-            background-image: url(../../images/Shape.png);
+            background-image: url(../images/Shape.png);
             background-repeat: no-repeat;
             background-position-x: 8px;
             background-position-y: 10px;
@@ -438,14 +438,14 @@
           }
 
           .mask {
-            background-image: url(../../images/BitmapTablet.png);
+            background-image: url(../images/BitmapTablet.png);
           }
         }
 
         .activity:nth-child(3) {
           margin-top: 34px;
           .mask {
-            background-image: url(../../images/BitmapTablet1.png);
+            background-image: url(../images/BitmapTablet1.png);
           }
         }
 
@@ -453,7 +453,7 @@
           margin-top: 34px;
           margin-right: 10px;
           .mask {
-            background-image: url(../../images/BitmapTablet2.png);
+            background-image: url(../images/BitmapTablet2.png);
           }
         }
 
@@ -462,7 +462,7 @@
           margin-left: 10px;
 
           .mask {
-            background-image: url(../../images/BitmapTablet3.png);
+            background-image: url(../images/BitmapTablet3.png);
           }
         }
 
@@ -475,7 +475,7 @@
           }
 
           .mask {
-            background-image: url(../../images/BitmapTablet4.png);
+            background-image: url(../images/BitmapTablet4.png);
           }
         }
 
@@ -488,7 +488,7 @@
           }
 
           .mask {
-            background-image: url(../../images/BitmapTablet5.png);
+            background-image: url(../images/BitmapTablet5.png);
           }
         }
 
@@ -497,7 +497,7 @@
           margin-right: 10px;
 
           .mask {
-            background-image: url(../../images/BitmapTablet6.png);
+            background-image: url(../images/BitmapTablet6.png);
           }
         }
       }
@@ -644,7 +644,7 @@
         }
         .imgAuthor {
           @include size(110px, 24px);
-          background-image: url(../../images/foot.png);
+          background-image: url(../images/foot.png);
           margin: 6px auto 0px;
         }
       }

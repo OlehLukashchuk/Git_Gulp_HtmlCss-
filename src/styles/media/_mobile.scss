@@ -11,7 +11,7 @@
       @include size(320px, 540px);
       @include bgPos(10px, 0px);
       margin: 0 auto;
-      background-image: url(../../images/Background.png);
+      background-image: url(../images/Background.png);
       background-repeat: no-repeat;
       overflow: hidden;
 
@@ -160,12 +160,12 @@
         }
 
         .steps:nth-child(2) {
-          background-image: url(../../images/Step1image.png);
+          background-image: url(../images/Step1image.png);
           margin-top: 15px;
         }
 
         .steps:nth-child(3) {
-          background-image: url(../../images/Step2image.png);
+          background-image: url(../images/Step2image.png);
           margin-top: 10px;
           padding-top: 95px;
 
@@ -176,7 +176,7 @@
         }
 
         .steps:nth-child(4) {
-          background-image: url(../../images/Step3image.png);
+          background-image: url(../images/Step3image.png);
           margin-top: 10px;
 
           .steps__button {
@@ -240,7 +240,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap1.png);
+            background-image: url(../images/Bitmap1.png);
           }
 
           .avatar::after {
@@ -248,7 +248,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #ff4e50;
-            background-image: url(../../images/Shape3.png);
+            background-image: url(../images/Shape3.png);
             background-repeat: no-repeat;
             background-position-x: 9px;
             background-position-y: 8px;
@@ -269,7 +269,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap.png);
+            background-image: url(../images/Bitmap.png);
           }
 
           .avatar::after {
@@ -277,7 +277,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #ffa710;
-            background-image: url(../../images/Shape2.png);
+            background-image: url(../images/Shape2.png);
             background-repeat: no-repeat;
             background-position-x: 8px;
             background-position-y: 8px;
@@ -302,7 +302,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap2.png);
+            background-image: url(../images/Bitmap2.png);
           }
 
           .avatar::after {
@@ -310,7 +310,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #19d4ca;
-            background-image: url(../../images/Shape1.png);
+            background-image: url(../images/Shape1.png);
             background-repeat: no-repeat;
             background-position-x: 8px;
             background-position-y: 7px;
@@ -331,7 +331,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap3.png);
+            background-image: url(../images/Bitmap3.png);
           }
 
           .avatar::after {
@@ -339,7 +339,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #667df3;
-            background-image: url(../../images/Shape.png);
+            background-image: url(../images/Shape.png);
             background-repeat: no-repeat;
             background-position-x: 8px;
             background-position-y: 10px;
@@ -422,19 +422,19 @@
           }
 
           .mask {
-            background-image: url(../../images/BitmapA.png);
+            background-image: url(../images/BitmapA.png);
           }
         }
 
         .activity:nth-child(3) {
           .mask {
-            background-image: url(../../images/BitmapA1.png);
+            background-image: url(../images/BitmapA1.png);
           }
         }
 
         .activity:nth-child(4) {
           .mask {
-            background-image: url(../../images/BitmapA2.png);
+            background-image: url(../images/BitmapA2.png);
           }
         }
 
@@ -444,7 +444,7 @@
           }
 
           .mask {
-            background-image: url(../../images/BitmapA3.png);
+            background-image: url(../images/BitmapA3.png);
           }
         }
 
@@ -455,7 +455,7 @@
           }
 
           .mask {
-            background-image: url(../../images/BitmapA4.png);
+            background-image: url(../images/BitmapA4.png);
           }
         }
 
@@ -466,7 +466,7 @@
           }
 
           .mask {
-            background-image: url(../../images/BitmapA5.png);
+            background-image: url(../images/BitmapA5.png);
           }
         }
 
@@ -476,7 +476,7 @@
           }
 
           .mask {
-            background-image: url(../../images/BitmapA6.png);
+            background-image: url(../images/BitmapA6.png);
           }
         }
       }
@@ -609,7 +609,7 @@
 
       .imgAuthor {
         @include size(110px, 24px);
-        background-image: url(../../images/foot.png);
+        background-image: url(../images/foot.png);
         margin: 6px auto 0px;
       }
     }

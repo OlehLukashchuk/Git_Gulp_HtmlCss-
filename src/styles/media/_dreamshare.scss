@@ -24,7 +24,7 @@
         mix-blend-mode: normal;
         opacity: 1;
         background-repeat: no-repeat;
-        background-image: url(../../images/headerBigBG.png);
+        background-image: url(../images/headerBigBG.png);
       }
 
       .nav {
@@ -191,11 +191,11 @@
         }
 
         .steps:nth-child(2) {
-          background-image: url(../../images/Step1Bigimage.png);
+          background-image: url(../images/Step1Bigimage.png);
         }
 
         .steps:nth-child(3) {
-          background-image: url(../../images/Step2Bigimage.png);
+          background-image: url(../images/Step2Bigimage.png);
           padding-top: 90px;
 
           h3 {
@@ -210,7 +210,7 @@
         }
 
         .steps:nth-child(4) {
-          background-image: url(../../images/Step3Bigimage.png);
+          background-image: url(../images/Step3Bigimage.png);
 
           .steps__button {
             padding-left: 6px;
@@ -281,7 +281,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap1.png);
+            background-image: url(../images/Bitmap1.png);
             margin: 3px 0px 0px 23px;
           }
 
@@ -290,7 +290,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #ff4e50;
-            background-image: url(../../images/Shape3.png);
+            background-image: url(../images/Shape3.png);
             background-repeat: no-repeat;
             background-position-x: 9px;
             background-position-y: 8px;
@@ -319,7 +319,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap.png);
+            background-image: url(../images/Bitmap.png);
             margin: 3px 0px 0px 43px;
           }
 
@@ -328,7 +328,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #ffa710;
-            background-image: url(../../images/Shape2.png);
+            background-image: url(../images/Shape2.png);
             background-repeat: no-repeat;
             background-position-x: 8px;
             background-position-y: 8px;
@@ -351,7 +351,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap2.png);
+            background-image: url(../images/Bitmap2.png);
             margin: 3px 0px 0px 60px;
           }
 
@@ -360,7 +360,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #19d4ca;
-            background-image: url(../../images/Shape1.png);
+            background-image: url(../images/Shape1.png);
             background-repeat: no-repeat;
             background-position-x: 8px;
             background-position-y: 7px;
@@ -386,7 +386,7 @@
           }
 
           .avatar {
-            background-image: url(../../images/Bitmap3.png);
+            background-image: url(../images/Bitmap3.png);
             margin: 3px 0px 0px 80px;
           }
 
@@ -395,7 +395,7 @@
             @include size(32px, 32px);
             position: absolute;
             background: #667df3;
-            background-image: url(../../images/Shape.png);
+            background-image: url(../images/Shape.png);
             background-repeat: no-repeat;
             background-position-x: 8px;
             background-position-y: 10px;
@@ -473,7 +473,7 @@
           margin-top: 34px;
 
           .mask {
-            background-image: url(../../images/AtivityBig.png);
+            background-image: url(../images/AtivityBig.png);
           }
         }
 
@@ -485,7 +485,7 @@
           }
 
           .mask {
-            background-image: url(../../images/AtivityBig2.png);
+            background-image: url(../images/AtivityBig2.png);
           }
         }
 
@@ -493,7 +493,7 @@
           margin-top: 34px;
 
           .mask {
-            background-image: url(../../images/AtivityBig1.png);
+            background-image: url(../images/AtivityBig1.png);
           }
         }
 
@@ -501,7 +501,7 @@
           margin-top: 20px;
 
           .mask {
-            background-image: url(../../images/AtivityBig3.png);
+            background-image: url(../images/AtivityBig3.png);
           }
         }
 
@@ -514,7 +514,7 @@
           }
 
           .mask {
-            background-image: url(../../images/AtivityBig4.png);
+            background-image: url(../images/AtivityBig4.png);
           }
         }
 
@@ -527,7 +527,7 @@
           }
 
           .mask {
-            background-image: url(../../images/AtivityBig5.png);
+            background-image: url(../images/AtivityBig5.png);
           }
         }
 
@@ -535,7 +535,7 @@
           margin-top: 20px;
 
           .mask {
-            background-image: url(../../images/AtivityBig6.png);
+            background-image: url(../images/AtivityBig6.png);
           }
         }
       }
@@ -689,7 +689,7 @@
 
       .imgAuthor {
         @include size(110px, 24px);
-        background-image: url(../../images/foot.png);
+        background-image: url(../images/foot.png);
         margin-top: 5px;
         margin-left: 126px;
       }
